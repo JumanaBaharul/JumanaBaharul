@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jumana</h1>
-<h3 align="center">A passionate Data Scientist from Namakkal, Tamil Nadu, India</h3>
+<h3 align="center">A passionate Data Scientist from Chennai, Tamil Nadu, India</h3>
 
 - 📫 How to reach me **jumanabaharul@gmail.com**
 
