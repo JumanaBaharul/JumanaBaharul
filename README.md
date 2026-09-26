@@ -1,58 +1,95 @@
-# Jumana Baharul
+<h1 align="center">
+  <sub><img src="https://raw.githubusercontent.com/JumanaBaharul/portfolio/main/public/favicon.svg" width="26" alt=""/></sub>
+  JUMANA BAHARUL
+</h1>
 
-**AI / LLM engineer** · Chennai, India
+<p align="center">
+  <b>AI engineer</b> · building language-model systems that have to be <i>right</i><br/>
+  grounded in live data · constrained where it matters · honest when they don't know
+</p>
 
-I build systems where language models have to be *right* — grounded in live
-data, constrained where it matters, and honest when they don't know.
+<p align="center">
+  <a href="https://github.com/JumanaBaharul/portfolio"><b>▷ THE DIVE LOG</b></a>
+  · <a href="https://linkedin.com/in/jumana-baharul/">LinkedIn</a>
+  · <a href="https://leetcode.com/u/Jumana_Baharul/">LeetCode</a>
+  · <a href="mailto:jumanabaharul@gmail.com">jumanabaharul@gmail.com</a>
+</p>
 
-Currently at **Sorim Technologies**, building **Voxa**: an AI assistant for
-factory operations that answers production, quality and logistics questions
-strictly from live plant data — FastAPI, async MongoDB, React, and a
-provider-agnostic LLM layer spanning 8 providers (OpenAI, Anthropic, Gemini,
-Groq…) with automatic fallback and per-call cost/latency logging.
+<br/>
 
----
+<p align="center">
+  <a href="https://github.com/JumanaBaharul/portfolio">
+    <img src="./assets/descent.gif" alt="The Dive Log — a playable deep-sea descent: sunlit surface to the hadal zone, jellies and an anglerfish on the way down" width="720"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>▲ <b>My portfolio is a playable dive.</b> Scroll = depth: sunlit surface → twilight → midnight → abyss → hadal.<br/>
+  Every sprite drawn in code · glowing fauna · zone title cards · a dive-computer HUD · synthesized chiptune. <a href="https://github.com/JumanaBaharul/portfolio">Zero game assets.</a></sub>
+</p>
+
+<br/>
+
+## If it can't say "I don't know", it isn't done.
+
+That's the bar I build to. Currently at **Sorim Technologies** on **Voxa** — an AI
+assistant for factory operations that answers production, quality and logistics
+questions **strictly from live plant data**, with a provider-agnostic LLM layer
+spanning 8 providers behind one client (automatic failover, per-call cost &
+latency telemetry). Every generated answer is cross-validated against live
+database results before a human ever sees it.
+
+- **6 systems in daily use** · 8 model providers orchestrated · 94% peak model accuracy
+- B.Tech, AI & Data Science — Shiv Nadar University, Chennai (8.85/10)
+
+<br/>
+
+<table>
+<tr><td valign="top" width="50%">
 
 ### Selected work
 
 | | |
 |---|---|
-| **[ford-ai-system](https://github.com/JumanaBaharul/ford-ai-system)** | RAG + semantic search over vehicle manuals — FastAPI, embeddings, retrieval scoring |
-| **[AgroScan](https://github.com/JumanaBaharul/AgroScan)** | multi-task ConvLSTM2D over 12-timestep multispectral imagery — classifies crop stress, plans drone spray routes (A*, TSP, simulated annealing) |
-| **[ShipmentSure](https://github.com/JumanaBaharul/ShipmentSure)** | on-time delivery prediction with logistics risk scoring and delay-reason analysis — 94% accuracy |
-| **[Image-Forgery-Detection](https://github.com/JumanaBaharul/Image-Forgery-Detection)** | ELA + CNN tampering detection — 94.05% accuracy on NLPR-CASIA |
-| **[portfolio](https://github.com/JumanaBaharul/portfolio)** | my playground: a playable pixel-art deep-sea dive — every sprite drawn in code, scroll = depth |
+| **[Voxa](https://github.com/JumanaBaharul)** | grounded AI for manufacturing plants — 8 LLM providers, one client, zero hallucinated numbers |
+| **[AgroScan](https://github.com/JumanaBaharul/AgroScan)** | ConvLSTM2D over 12-timestep multispectral imagery → drone-ready GPS spray routes (A* · TSP · SA) |
+| **[InjuryLens](https://github.com/deepuzz11/InjuryLens)** | 33-landmark pose estimation → 6 biomechanical risk metrics + a coach that cites the CV output |
+| **[CredCheck](https://github.com/deepuzz11/CredCheck)** | 9 independent trust signals fused honestly — deterministic scorer under an LLM explainer |
+| **[ford-ai-system](https://github.com/JumanaBaharul/ford-ai-system)** | RAG that refuses: exact vector search, T=0, four layers between you and a confident wrong answer |
 
-Earlier work: [Health Diagnosis Assistant](https://github.com/JumanaBaharul/Health-Diagnosis-Assisstant)
-(fine-tuned BERT · 90.6%), [COVID-19 chest X-ray diagnosis](https://github.com/JumanaBaharul/COVID-19-Diagnosis-Using-Chest-X-rays)
-(VGG19 + EfficientNet · 89.6%), [graph-based rumor propagation](https://github.com/JumanaBaharul/Graph-Based-Rumor-and-Misinformation-Propagation),
-[demand forecasting](https://github.com/JumanaBaharul/Demand-Forecasting) (ARIMA + LSTM).
-
----
+</td><td valign="top" width="50%">
 
 ### How I think about LLM systems
 
-- **The model is not the product.** Retrieval, validation and guardrails are.
-- **Ground every answer in real data** — or make the system say "I don't know."
-- **Keep arithmetic, pricing and safety logic out of the model's hands.**
-  Deterministic code is cheaper, faster, and never hallucinates.
+**The model is not the product.** Retrieval, validation and guardrails are —
+models write, the code decides.
 
-### Toolbox
+**Ground everything, or refuse.** A system that admits uncertainty beats one
+that sounds confident.
 
-| | |
-|---|---|
-| **Languages** | Python · TypeScript · SQL · Java · C |
-| **AI / ML** | PyTorch · TensorFlow · Keras · scikit-learn · Hugging Face · RAG · Whisper · MediaPipe |
-| **Web** | FastAPI · React · Next.js · Node.js · Express · WebSockets |
-| **Data** | MongoDB · PostgreSQL · Supabase · Prisma · MySQL |
-| **Ops** | Docker · GitHub Actions · Playwright · pytest · Ruff · Bandit |
+**Keep arithmetic out of the model's hands.** Pricing, safety thresholds and
+validation belong where a model cannot reach them.
 
----
+**Ship the unglamorous half.** Caching, cost telemetry, CI gates — the parts
+nobody demos are why the demoed parts survive production.
 
-**Now**
+</td></tr>
+</table>
 
-- 2026 — Software Engineer, Sorim Technologies
-- B.Tech, Artificial Intelligence & Data Science — Shiv Nadar University, Chennai (CGPA 8.85/10)
-- 250+ problems on [LeetCode](https://leetcode.com/u/Jumana_Baharul/)
+<br/>
 
-**Reach me** — [jumanabaharul@gmail.com](mailto:jumanabaharul@gmail.com) · [LinkedIn](https://linkedin.com/in/jumana-baharul/)
+## Toolbox
+
+`Python` `TypeScript` `SQL` · `PyTorch` `TensorFlow` `Keras` `scikit-learn` `Hugging Face` `RAG` `Whisper` `MediaPipe` · `FastAPI` `React` `Next.js` `Node.js` · `MongoDB` `PostgreSQL` `Supabase` `Prisma` · `Docker` `GitHub Actions` `Playwright`
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JumanaBaharul&show_icons=true&hide_border=true&bg_color=00000000&title_color=0fa896&icon_color=0fa896&text_color=2e5563" height="150" alt="GitHub stats"/>
+&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JumanaBaharul&layout=compact&hide_border=true&bg_color=00000000&title_color=0fa896&text_color=2e5563" height="150" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <sub><b>Available for the next descent.</b> If your data is messy, the answer has to be trustworthy, and someone will actually use the result — <a href="mailto:jumanabaharul@gmail.com">write to me</a>. I answer every message.</sub>
+</p>
