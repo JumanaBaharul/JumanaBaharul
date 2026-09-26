@@ -38,9 +38,6 @@ questions **strictly from live data** — a provider-agnostic LLM layer spanning
 telemetry), and every generated answer cross-validated against live database
 results before a human ever sees it.
 
-- **6 systems in daily use** · 8 model providers orchestrated · 94% peak model accuracy
-- B.Tech, AI & Data Science — Shiv Nadar University, Chennai (8.85/10)
-
 <br/>
 
 <table>
