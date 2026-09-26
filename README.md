@@ -85,11 +85,15 @@ nobody demos are why the demoed parts survive production.
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JumanaBaharul&show_icons=true&hide_border=true&bg_color=00000000&title_color=0fa896&icon_color=0fa896&text_color=2e5563" height="150" alt="GitHub stats"/>
+  <a href="https://github.com/JumanaBaharul/portfolio"><img src="https://img.shields.io/badge/▷_THE_DIVE_LOG-playable_portfolio-0fa896?style=flat-square&labelColor=0e2a35" alt="The Dive Log"/></a>
 &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JumanaBaharul&layout=compact&hide_border=true&bg_color=00000000&title_color=0fa896&text_color=2e5563" height="150" alt="Top languages"/>
+  <a href="mailto:jumanabaharul@gmail.com"><img src="https://img.shields.io/badge/email-jumanabaharul@gmail.com-0fa896?style=flat-square&labelColor=0e2a35" alt="Email"/></a>
+&nbsp;
+  <a href="https://linkedin.com/in/jumana-baharul/"><img src="https://img.shields.io/badge/LinkedIn-jumana--baharul-0fa896?style=flat-square&labelColor=0e2a35&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+&nbsp;
+  <a href="https://leetcode.com/u/Jumana_Baharul/"><img src="https://img.shields.io/badge/LeetCode-250%2B_solved-0fa896?style=flat-square&labelColor=0e2a35" alt="LeetCode"/></a>
 </p>
 
 <p align="center">
-  <sub><b>Available for the next descent.</b> If your data is messy, the answer has to be trustworthy, and someone will actually use the result — <a href="mailto:jumanabaharul@gmail.com">write to me</a>. I answer every message.</sub>
+  <sub><b>Available for the next descent.</b> If your data is messy, the answer has to be trustworthy, and someone will actually use the result — write to me. I answer every message.</sub>
 </p>
