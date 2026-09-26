@@ -32,12 +32,11 @@
 
 ## If it can't say "I don't know", it isn't done.
 
-That's the bar I build to. Currently at **Sorim Technologies** on **Voxa** — an AI
-assistant for factory operations that answers production, quality and logistics
-questions **strictly from live plant data**, with a provider-agnostic LLM layer
-spanning 8 providers behind one client (automatic failover, per-call cost &
-latency telemetry). Every generated answer is cross-validated against live
-database results before a human ever sees it.
+That's the bar I build to. I build production assistants that answer operational
+questions **strictly from live data** — a provider-agnostic LLM layer spanning
+8 providers behind one client (automatic failover, per-call cost & latency
+telemetry), and every generated answer cross-validated against live database
+results before a human ever sees it.
 
 - **6 systems in daily use** · 8 model providers orchestrated · 94% peak model accuracy
 - B.Tech, AI & Data Science — Shiv Nadar University, Chennai (8.85/10)
@@ -51,7 +50,7 @@ database results before a human ever sees it.
 
 | | |
 |---|---|
-| **[Voxa](https://github.com/JumanaBaharul)** | grounded AI for manufacturing plants — 8 LLM providers, one client, zero hallucinated numbers |
+| **Grounded ops assistant** | production AI for factory operations — 8 LLM providers behind one client, zero hallucinated numbers |
 | **[AgroScan](https://github.com/JumanaBaharul/AgroScan)** | ConvLSTM2D over 12-timestep multispectral imagery → drone-ready GPS spray routes (A* · TSP · SA) |
 | **[InjuryLens](https://github.com/deepuzz11/InjuryLens)** | 33-landmark pose estimation → 6 biomechanical risk metrics + a coach that cites the CV output |
 | **[CredCheck](https://github.com/deepuzz11/CredCheck)** | 9 independent trust signals fused honestly — deterministic scorer under an LLM explainer |
