@@ -1,14 +1,58 @@
-<h1 align="center">Hi 👋, I'm Jumana</h1>
-<h3 align="center">A passionate Data Scientist from Chennai, Tamil Nadu, India</h3>
+# Jumana Baharul
 
-- 📫 How to reach me **jumanabaharul@gmail.com**
+**AI / LLM engineer** · Chennai, India
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jumana-baharul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jumana-baharul" height="30" width="40" /></a>
-<a href="https://kaggle.com/jumanabaharul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jumanabaharul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jumana_baharul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jumana_baharul" height="30" width="40" /></a>
-</p>
+I build systems where language models have to be *right* — grounded in live
+data, constrained where it matters, and honest when they don't know.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+Currently at **Sorim Technologies**, building **Voxa**: an AI assistant for
+factory operations that answers production, quality and logistics questions
+strictly from live plant data — FastAPI, async MongoDB, React, and a
+provider-agnostic LLM layer spanning 8 providers (OpenAI, Anthropic, Gemini,
+Groq…) with automatic fallback and per-call cost/latency logging.
+
+---
+
+### Selected work
+
+| | |
+|---|---|
+| **[ford-ai-system](https://github.com/JumanaBaharul/ford-ai-system)** | RAG + semantic search over vehicle manuals — FastAPI, embeddings, retrieval scoring |
+| **[AgroScan](https://github.com/JumanaBaharul/AgroScan)** | multi-task ConvLSTM2D over 12-timestep multispectral imagery — classifies crop stress, plans drone spray routes (A*, TSP, simulated annealing) |
+| **[ShipmentSure](https://github.com/JumanaBaharul/ShipmentSure)** | on-time delivery prediction with logistics risk scoring and delay-reason analysis — 94% accuracy |
+| **[Image-Forgery-Detection](https://github.com/JumanaBaharul/Image-Forgery-Detection)** | ELA + CNN tampering detection — 94.05% accuracy on NLPR-CASIA |
+| **[portfolio](https://github.com/JumanaBaharul/portfolio)** | my playground: a playable pixel-art deep-sea dive — every sprite drawn in code, scroll = depth |
+
+Earlier work: [Health Diagnosis Assistant](https://github.com/JumanaBaharul/Health-Diagnosis-Assisstant)
+(fine-tuned BERT · 90.6%), [COVID-19 chest X-ray diagnosis](https://github.com/JumanaBaharul/COVID-19-Diagnosis-Using-Chest-X-rays)
+(VGG19 + EfficientNet · 89.6%), [graph-based rumor propagation](https://github.com/JumanaBaharul/Graph-Based-Rumor-and-Misinformation-Propagation),
+[demand forecasting](https://github.com/JumanaBaharul/Demand-Forecasting) (ARIMA + LSTM).
+
+---
+
+### How I think about LLM systems
+
+- **The model is not the product.** Retrieval, validation and guardrails are.
+- **Ground every answer in real data** — or make the system say "I don't know."
+- **Keep arithmetic, pricing and safety logic out of the model's hands.**
+  Deterministic code is cheaper, faster, and never hallucinates.
+
+### Toolbox
+
+| | |
+|---|---|
+| **Languages** | Python · TypeScript · SQL · Java · C |
+| **AI / ML** | PyTorch · TensorFlow · Keras · scikit-learn · Hugging Face · RAG · Whisper · MediaPipe |
+| **Web** | FastAPI · React · Next.js · Node.js · Express · WebSockets |
+| **Data** | MongoDB · PostgreSQL · Supabase · Prisma · MySQL |
+| **Ops** | Docker · GitHub Actions · Playwright · pytest · Ruff · Bandit |
+
+---
+
+**Now**
+
+- 2026 — Software Engineer, Sorim Technologies
+- B.Tech, Artificial Intelligence & Data Science — Shiv Nadar University, Chennai (CGPA 8.85/10)
+- 250+ problems on [LeetCode](https://leetcode.com/u/Jumana_Baharul/)
+
+**Reach me** — [jumanabaharul@gmail.com](mailto:jumanabaharul@gmail.com) · [LinkedIn](https://linkedin.com/in/jumana-baharul/)
